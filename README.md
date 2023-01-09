@@ -32,6 +32,8 @@ A collection of resources that have inspired me
 
 "Maybe Not" - Rich Hickey (2018) [https://www.youtube.com/watch?v=YR5WdGrpoug](https://www.youtube.com/watch?v=YR5WdGrpoug)
 
+"One-on-Ones" - Manager Tools (2012) [https://www.manager-tools.com/2005/07/the-single-most-effective-management-tool-part-1](https://www.manager-tools.com/2005/07/the-single-most-effective-management-tool-part-1)
+
 # Articles
 
 “Twelve Factor App” - Adam Wiggins (2017) [https://12factor.net/](https://12factor.net/)
