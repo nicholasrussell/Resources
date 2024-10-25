@@ -18,6 +18,28 @@ A collection of resources that have inspired me
 
 "Introduction to the Theory of Computation" - Michael Sipser (2006) [https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/0534950973/](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/0534950973/)
 
+"The Little Schemer" - Daniel P. Friedman, Matthias Felleison (1995) [https://mitpress.mit.edu/9780262560993/the-little-schemer/](https://mitpress.mit.edu/9780262560993/the-little-schemer/)
+
+"Introduction to Algorithms" - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein (1990) [https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
+
+# Articles and Papers
+
+“Twelve Factor App” - Adam Wiggins (2017) [https://12factor.net/](https://12factor.net/)
+
+"Beating the Averages" - Paul Graham (2001) [http://www.paulgraham.com/avg.html](http://www.paulgraham.com/avg.html)
+
+"Pattern: Transactional Outbox" - Chris Richardson (2019) [https://microservices.io/patterns/data/transactional-outbox.html](https://microservices.io/patterns/data/transactional-outbox.html)
+
+"So you want to be a wizard" - Julia Evans (2017) [https://wizardzines.com/zines/wizard/](https://wizardzines.com/zines/wizard/)
+
+"Evolutionary Database Design" - Martin Fowler (2016) [https://martinfowler.com/articles/evodb.html](https://martinfowler.com/articles/evodb.html)
+
+"What Color is Your Function?" - Bob Nystrom (2015) [https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
+
+"A tutorial on the universality and expressiveness of fold" - Graham Hutton (1999) [https://people.cs.nott.ac.uk/pszgmh/fold.pdf](https://people.cs.nott.ac.uk/pszgmh/fold.pdf)
+
+"The Memory Safety Grimoire" - Evan Ovadia, et al. (2014) [https://verdagon.dev/grimoire/grimoire](https://verdagon.dev/grimoire/grimoire)
+
 # Talks
 
 ***** "Simple Made Easy" - Rich Hickey (2011) [https://www.youtube.com/watch?v=SxdOUGdseq4](https://www.youtube.com/watch?v=SxdOUGdseq4)
@@ -33,15 +55,3 @@ A collection of resources that have inspired me
 "Maybe Not" - Rich Hickey (2018) [https://www.youtube.com/watch?v=YR5WdGrpoug](https://www.youtube.com/watch?v=YR5WdGrpoug)
 
 "One-on-Ones" - Manager Tools (2012) [https://www.manager-tools.com/2005/07/the-single-most-effective-management-tool-part-1](https://www.manager-tools.com/2005/07/the-single-most-effective-management-tool-part-1)
-
-# Articles
-
-“Twelve Factor App” - Adam Wiggins (2017) [https://12factor.net/](https://12factor.net/)
-
-"Beating the Averages" - Paul Graham (2001) [http://www.paulgraham.com/avg.html](http://www.paulgraham.com/avg.html)
-
-"Pattern: Transactional Outbox" - Chris Richardson (2019) [https://microservices.io/patterns/data/transactional-outbox.html](https://microservices.io/patterns/data/transactional-outbox.html)
-
-"So you want to be a wizard" - Julia Evans (2017) [https://wizardzines.com/zines/wizard/](https://wizardzines.com/zines/wizard/)
-
-"Evolutionary Database Design" - Martin Fowler (2016) [https://martinfowler.com/articles/evodb.html](https://martinfowler.com/articles/evodb.html)
